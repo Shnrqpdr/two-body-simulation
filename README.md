@@ -1,5 +1,5 @@
 # two-body-simulation
-This project are a simulation of two bodies interacting in a gravitational field. 
+This project is a simulation of two bodies interacting in a gravitational field. 
 
 The project has two classes to plot and animate the orbits of these bodies.
 The used parameters is the set of parameters for the earth-moon system, i.e, can be found on google at wikipedia.
